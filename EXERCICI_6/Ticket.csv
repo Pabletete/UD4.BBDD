@@ -1,0 +1,4 @@
+ID,Nº_factura,Empleat,Hora,Data,Preu_IVA,Ticketcol,Empleat_DNI
+1234B,1,Rigoberto,17:30,10/10/2023,21%,NULL,41414141C
+1234C,2,Firulais,18:45,11/10/2023,21%,NULL,52525252C
+1234D,3,Fernando,16:24,12/10/2023,21%,NULL,63636363S

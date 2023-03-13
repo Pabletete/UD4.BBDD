@@ -1,0 +1,4 @@
+ID,Nº_Vol,Origen,Destí,Hora_sortida,Hora_arribada,Data_sortida,Avió_ID
+4321B,1,Menorca,Holliwood,10:00,20:00,10/10/2023,1234B
+4321C,2,Menorca,Paris,15:00,16:00,11/10/2023,1234C
+4321D,3,Menorca,Hawaii,16:00,18:00,12/10/2023,1234D

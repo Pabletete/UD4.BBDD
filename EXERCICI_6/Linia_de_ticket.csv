@@ -1,0 +1,4 @@
+ID,Descripció,Unitats_descompte,Preu_unitari,Preu_total,Ticket_ID,Producte_Codi
+1234Z,NULL,2%,9€,9€,1234B,4321B
+1234Y,NULL,2%,10€,10€,1234C,4321C
+1234X,NULL,2%,8€,8€,1234D,4321D

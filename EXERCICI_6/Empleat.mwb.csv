@@ -1,0 +1,5 @@
+DNI,Nom,Cognom,Adreça,Data_naixement,Telèfon,Edat
+"41414141C ",Llorenç,Pons,"Cami Biniparrell, nº 90",10/10/2013,987654321,10
+52525252C,Pau,Babau,"Cami Biniparrell, nº 91",10/4/2000,654321987,23
+63636363S,Sito,Sintes,"Cami Biniparrell, nº 92",24/3/1995,321654987,28
+NULL,NULL,NULL,NULL,,NULL,NULL
